@@ -1,4 +1,4 @@
-# norcalhackathon-allergyalert
+# allergyalert
 
 This project consists of two files : DatabaseCode.java.
 
